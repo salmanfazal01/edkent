@@ -5,3 +5,6 @@ Note: how the name dropdown in the top right as well as the tab buttons are clic
 
 
 Please implement this page using React + Typescript (Preferred) or React + JavaScript.The goal is to match the look & feel of the XD as closely as possible, and you are free to use any libraries you need to accomplish this. You should also try to structure the code in a logical manner, separating components as necessary.
+
+
+Submission live link - https://edkent-b258b.web.app/
